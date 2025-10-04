@@ -7,5 +7,7 @@ int main()
 	snprintf(str, sizeof(str), "I am %s", "pucheng");
 
 	printf("%s",str);
+
+	printf("hello");
 	return 0;
 }
